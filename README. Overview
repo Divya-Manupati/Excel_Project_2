@@ -2,21 +2,32 @@
 
 "Road Accident Insights: A Comprehensive Dashboard for 2021-2022"
 
-In this project, I was responsible for creating a road accident dashboard for the years 2021 and 2022. The purpose of this dashboard 
-was to provide valuable insights to the clients regarding various aspects of road accidents. I performed data cleaning using different methods to ensure the accuracy and reliability of the data. Additionally, I conducted data processing, analysis, and visualization to extract meaningful information.
+In this project, I was responsible for creating a road accident dashboard for the years 2021 and 2022.
+The purpose of this dashboard was to provide valuable insights to the clients regarding various aspects of road 
+accidents.
+
+I performed Various tasks, including data cleaning, processing, analysis, and visualization. The data was thoroughly 
+cleaned to ensure accuracy and reliability. Data processing techniques were then applied to extract meaningful information 
+from the dataset. This involved aggregating and organizing the data to facilitate analysis.
 
 By utilizing pivot tables, I identified the primary Key Performance Indicators (KPIs) as well as the secondary KPIs. 
 The primary KPI focused on the total casualties that occurred after accidents, providing a comprehensive understanding of the severity 
 of the incidents. 
+
 Furthermore, I analyzed the total casualties in relation to accident severity and determined the percentage of casualties based on 
 different vehicle types. This allowed for a clear assessment of the impact of accidents and vehicle-related factors on casualties.
 
 Moreover, I developed a monthly trend analysis that compared the number of casualties between the current and previous years. This 
-analysis provided an overview of the progress made in reducing casualties and highlighted any areas of concern. I also identified the 
-road types with the highest number of casualties, enabling the clients to prioritize safety measures and allocate resources accordingly.
+analysis provided an overview of the progress made in reducing casualties and highlighted any areas of concern.
 
-Additionally, I examined the distribution of total casualties based on different road surface conditions, providing insights into the correlation between road surface and accidents. Lastly, I explored the relationship between casualties and various factors such as area/location and day/night time, aiding in targeted safety interventions and resource allocation.
+I also identified the road types with the highest number of casualties, enabling the clients to prioritize safety 
+measures and allocate resources accordingly.
+
+Additionally, I examined the distribution of total casualties based on different road surface conditions, providing insights 
+into the correlation between road surface and accidents. Lastly, I explored the relationship between casualties and various 
+factors such as area/location and day/night time, aiding in targeted safety interventions and resource allocation.
 
 Overall, the road accident dashboard I created successfully fulfilled the client's requirements, offering concise and impactful 
 summaries of the primary and secondary KPIs. The project allowed the clients to gain valuable insights into the casualties resulting 
-from road accidents, evaluate accident severity, identify high-risk vehicle types, analyze monthly trends, determine the impact of road types and surfaces, and understand the relationship between casualties and area/location as well as day/night time.
+from road accidents, evaluate accident severity, identify high-risk vehicle types, analyze monthly trends, determine the impact of 
+road types and surfaces, and understand the relationship between casualties and area/location as well as day/night time.
